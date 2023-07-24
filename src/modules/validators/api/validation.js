@@ -156,4 +156,4 @@ class validate {
         }
     }
 }
-module.exports = new validate()
+module.exports = new validate()   
